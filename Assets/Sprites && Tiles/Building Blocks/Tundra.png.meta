@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 2c5cf93a09f8edf4ba33603fff04c40a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2635790832482086508
+    second: Tundra_0
+  - first:
+      213: 7421963036676865307
+    second: Tundra_1
+  - first:
+      213: -2157595530347955169
+    second: Tundra_2
+  - first:
+      213: -8115249148354576399
+    second: Tundra_3
+  - first:
+      213: 4521087329709563733
+    second: Tundra_4
+  - first:
+      213: -8020484957452964458
+    second: Tundra_5
+  - first:
+      213: 6689204052476385968
+    second: Tundra_6
+  - first:
+      213: 7290622887740117064
+    second: Tundra_7
+  - first:
+      213: -759936860379944017
+    second: Tundra_8
+  - first:
+      213: 7315814151304485713
+    second: Tundra_9
+  - first:
+      213: 7651397263255996594
+    second: Tundra_10
+  - first:
+      213: 322890691744295999
+    second: Tundra_11
+  - first:
+      213: 1538753847125584658
+    second: Tundra_12
+  - first:
+      213: 2170026815192160250
+    second: Tundra_13
+  - first:
+      213: -1319666471500339352
+    second: Tundra_14
+  - first:
+      213: 4662006869646598184
+    second: Tundra_15
+  - first:
+      213: 1288644905055881993
+    second: Tundra_16
+  - first:
+      213: -5627274058782834971
+    second: Tundra_17
+  - first:
+      213: -8404019216572091406
+    second: Tundra_18
+  - first:
+      213: -5276570850122349617
+    second: Tundra_19
+  - first:
+      213: -973857880287564629
+    second: Tundra_20
+  - first:
+      213: -7131523627804399816
+    second: Tundra_21
+  - first:
+      213: 7317700068004751641
+    second: Tundra_22
+  - first:
+      213: -5578717807904281989
+    second: Tundra_23
+  - first:
+      213: 6401078155900604340
+    second: Tundra_24
+  - first:
+      213: 6646149463651610722
+    second: Tundra_25
+  - first:
+      213: -3565692247452468409
+    second: Tundra_26
+  - first:
+      213: -755961282106647474
+    second: Tundra_27
+  - first:
+      213: -2634262537513605638
+    second: Tundra_28
+  - first:
+      213: 4282737241115416366
+    second: Tundra_29
+  - first:
+      213: 1398816236311210294
+    second: Tundra_30
+  - first:
+      213: -4279773424628047898
+    second: Tundra_31
+  - first:
+      213: 7230308549061526991
+    second: Tundra_32
+  - first:
+      213: -9155241958006678934
+    second: Tundra_33
+  - first:
+      213: 7366029155921780452
+    second: Tundra_34
+  - first:
+      213: -6381173623549724661
+    second: Tundra_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tundra_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e63501cc5349420800000000000000
+      internalID: 2635790832482086508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -22}
+        - {x: 12, y: -33}
+        - {x: 0, y: -22}
+        - {x: -12, y: -33}
+        - {x: -23, y: -22}
+        - {x: -35, y: -33}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d34310f0c100760800000000000000
+      internalID: 7421963036676865307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb3aceb4eae02e0800000000000000
+      internalID: -2157595530347955169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb88065e7d06f80800000000000000
+      internalID: -8115249148354576399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: 9}
+        - {x: 34, y: 3}
+        - {x: 33, y: 0}
+        - {x: 32, y: -2}
+        - {x: 31, y: -4}
+        - {x: 30, y: -5}
+        - {x: 29, y: -7}
+        - {x: 28, y: -9}
+        - {x: 27, y: -10}
+        - {x: 25, y: -13}
+        - {x: 23, y: -15}
+        - {x: 21, y: -16}
+        - {x: 19, y: -18}
+        - {x: 17, y: -20}
+        - {x: 14, y: -22}
+        - {x: 13, y: -23}
+        - {x: 11, y: -24}
+        - {x: 9, y: -25}
+        - {x: 6, y: -26}
+        - {x: 4, y: -27}
+        - {x: -1, y: -29}
+        - {x: -5, y: -30}
+        - {x: -8, y: -31}
+        - {x: -12, y: -32}
+        - {x: -18, y: -33}
+        - {x: -24, y: -34}
+        - {x: -30, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9bddf8f02ebe30800000000000000
+      internalID: 4521087329709563733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -10}
+        - {x: -2, y: -5}
+        - {x: -11, y: 22}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de6a0fc6381b090800000000000000
+      internalID: -8020484957452964458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba55f115a3d4dc50800000000000000
+      internalID: 6689204052476385968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -10, y: -20}
+        - {x: -3, y: 6}
+        - {x: 21, y: 13}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840151793ee7d2560800000000000000
+      internalID: 7290622887740117064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe359a3792475f0800000000000000
+      internalID: -759936860379944017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9743b53ef68560800000000000000
+      internalID: 7315814151304485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: -35}
+        - {x: 21, y: -34}
+        - {x: 17, y: -33}
+        - {x: 12, y: -32}
+        - {x: 8, y: -31}
+        - {x: 5, y: -30}
+        - {x: 2, y: -29}
+        - {x: -2, y: -28}
+        - {x: -4, y: -27}
+        - {x: -6, y: -26}
+        - {x: -9, y: -25}
+        - {x: -12, y: -23}
+        - {x: -14, y: -22}
+        - {x: -16, y: -21}
+        - {x: -18, y: -20}
+        - {x: -20, y: -18}
+        - {x: -22, y: -16}
+        - {x: -24, y: -14}
+        - {x: -26, y: -12}
+        - {x: -28, y: -9}
+        - {x: -30, y: -6}
+        - {x: -32, y: -2}
+        - {x: -33, y: 1}
+        - {x: -34, y: 4}
+        - {x: -35, y: 8}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b805c7a5493f2a60800000000000000
+      internalID: 7651397263255996594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -35}
+        - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce2b69f532b7400800000000000000
+      internalID: 322890691744295999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: -20, y: 12}
+        - {x: 2, y: 6}
+        - {x: 11, y: -21}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bafa6a870ca5510800000000000000
+      internalID: 1538753847125584658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d99024eb7d1e10800000000000000
+      internalID: 2170026815192160250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867aa38065a9fade0800000000000000
+      internalID: -1319666471500339352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 302
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82067bd2c86c2b040800000000000000
+      internalID: 4662006869646598184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -5}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b097fa6bf22e110800000000000000
+      internalID: 1288644905055881993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7a70ee08e7e1b0800000000000000
+      internalID: -5627274058782834971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f9a68c0dee5b80800000000000000
+      internalID: -8404019216572091406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c64ea4cad5c6b0800000000000000
+      internalID: -5276570850122349617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 232
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: 12}
+        - {x: -35, y: 29}
+        - {x: -34, y: 31}
+        - {x: -33, y: 33}
+        - {x: -31, y: 34}
+        - {x: -27, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacaeb7ea692c72f0800000000000000
+      internalID: -973857880287564629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -5}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e9618b0db70d90800000000000000
+      internalID: -7131523627804399816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196646e071bd8560800000000000000
+      internalID: 7317700068004751641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: -11}
+        - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 11, y: 22}
+        - {x: 2, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a28b506b96492b0800000000000000
+      internalID: -5578717807904281989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc7fd1ba235d850800000000000000
+      internalID: 6401078155900604340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 162
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2607b1179bddb3c50800000000000000
+      internalID: 6646149463651610722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -5}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3b34facd148ec0800000000000000
+      internalID: -3565692247452468409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c951c18394285f0800000000000000
+      internalID: -755961282106647474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e166dd28317bd0800000000000000
+      internalID: -2634262537513605638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27550374d65f6b30800000000000000
+      internalID: 4282737241115416366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 92
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e067a4f7996310800000000000000
+      internalID: 1398816236311210294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -5}
+        - {x: -35, y: -5}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef53e9deb03b94c0800000000000000
+      internalID: -4279773424628047898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5484b4157375460800000000000000
+      internalID: 7230308549061526991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a924c12fb02f080800000000000000
+      internalID: -9155241958006678934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -35}
+        - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee53eb8d74693660800000000000000
+      internalID: 7366029155921780452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tundra_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f936f5648177a0800000000000000
+      internalID: -6381173623549724661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
